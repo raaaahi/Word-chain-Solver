@@ -12,9 +12,12 @@ Results are then shown of the longest chain, and length of chain.
 
 
 Issues:
+
 -when using a dataset of 196 locations(all countries) generation>4 take minutes-hours without optimizations
 
 
 TODO:
--function to remove input place from data list
+
+-function to remove input place from data list 
+
 -function to remove locations that start and end with the same letter, than add them to the last/longest chains
