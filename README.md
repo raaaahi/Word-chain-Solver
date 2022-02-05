@@ -1,6 +1,10 @@
 # LastLetterCountrySolver
 We've all played the places game where someone names a place (like a country or a city) and the someone else must then name another place that starts with the last letter of the previous word.
 
+Requirements:
+import: pandas, numpy
+text file with header with places separated by newlines: countries.txt
+
 
 Given a list of countries and/cities and a starting value, the algorithm brute force generates a tree of every possible combination of places.
 
