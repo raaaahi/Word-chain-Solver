@@ -21,3 +21,6 @@ TODO:
 -function to remove input place from data list 
 
 -function to remove locations that start and end with the same letter, than add them to the last/longest chains
+
+
+https://colab.research.google.com/drive/1_jSwWHmne74TtBIUN4sQu8jg5d1UoKx3
